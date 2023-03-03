@@ -28,7 +28,7 @@ description: Eine inoffizielle Webseite der Burger Elterninitiative.
 # theme: minima
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-#  - jekyll-feed
+ - jekyll-feed
  - jekyll-seo-tag
  - jekyll-remote-theme
 
