@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/burger-adventskalender/sw.js', { scope: '/burger-adventskalender/' })})}
