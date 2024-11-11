@@ -22,15 +22,17 @@ title: Burger Elterninitiative
 description: Eine inoffizielle Webseite der Burger Elterninitiative.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: burger-elterinitiative
+github_username: babsey
 
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-swiss
+theme_color: yellow
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 github:
   owner_name: babsey
