@@ -24,7 +24,7 @@ name: "Sebastian Spreizer"
 description:
   "Burg bei Kirchzarten im Dreisamtal liegt nur unweit von Freiburg im Breisgau im Südschwarzwald entfernt. Der
   Bürgerverein ist eine Vereinigung der Bürger von Burg. Werden Sie Mitglied."
-url: "bv-burg-dreisamtal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://bv-burg-dreisamtal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "bv-burg-dreisamtal/bv-burg-dreisamtal.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
