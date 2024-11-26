@@ -1,8 +1,10 @@
 ---
-permalink: /burger-fest/rezepte/
-title: "Burger Fest Rezepte"
-excerpt: "Die besten Burger Rezepte von uns für euch getestet"
+permalink: /burger-fest/2021/rezepte/
+title: "Burger Fest 2021"
+excerpt: "Rezepte"
 ---
+
+Die besten Burger Rezepte von uns für euch getestet.
 
 [Burger Buns](https://www.bv-burg-dreisamtal.de/eip/media/burger-buns.pdf?fl=36059060) (PDF-Datei - 222 KB)
 

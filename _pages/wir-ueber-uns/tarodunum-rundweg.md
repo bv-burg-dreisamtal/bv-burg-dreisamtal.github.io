@@ -14,7 +14,6 @@ Vor fast 20 Jahren wurde auf Initiative des Bürgervereins ein Rundweg um die ke
   <a href="/assets/img/fotos/goldmuenze.jpg" class="image-popup " title="Logo Tarodunumweg">
     <img src="/assets/img/fotos/goldmuenze.jpg" alt="Goldmünze">
   </a>
-  <figcaption>Logo Tarodunumweg</figcaption>
 </figure>
 
 Diese Befestigung von großer historischer Bedeutung erstreckt sich zwischen den Flüssen Rotbach und Wagensteigbach.
@@ -34,4 +33,8 @@ Für Gruppenführungen sind Spenden an den Bürgerverein erwünscht.
 
 Anfragen und Buchungen richten Sie bitte an Mathias Lauck unter [keltenweg@bv-burg-dreisamtal.de](mailto:keltenweg@bv-burg-dreisamtal.de)
 
-![Tarodunumweg](/assets/img/fotos/picture_img_535.jpeg)
+<figure>
+  <a href="/assets/img/fotos/picture_img_535.jpeg" class="image-popup " title="Tarodunumweg">
+    <img src="/assets/img/fotos/picture_img_535.jpeg" alt="Tarodunumweg">
+  </a>
+</figure>

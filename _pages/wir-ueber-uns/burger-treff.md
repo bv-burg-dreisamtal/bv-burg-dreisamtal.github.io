@@ -33,4 +33,4 @@ Dagmar Yoshida
 
 ## Buchung
 Susanne Seifried \
-Tel. 07661/ 9084334
+Tel. 07661 / 9084334

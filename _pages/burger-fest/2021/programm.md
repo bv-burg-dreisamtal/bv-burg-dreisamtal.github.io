@@ -1,7 +1,7 @@
 ---
-permalink: /burger-fest/programm-2021/
-title: "Burger Fest"
-excerpt: "Programm 2021"
+permalink: /burger-fest/2021/programm
+title: "Burger Fest 2021"
+excerpt: "Programm"
 ---
 
 # Programm Burger Fest 2021

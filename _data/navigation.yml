@@ -3,62 +3,76 @@ main:
   - title: "Mitglied werden"
     url: /mitglied-werden//
 
-docs:
+willkommen:
   - title: Willkommen
+    url: /
     children:
       - title: "Vorstand"
         url: /vorstand/
-      - title: "Mitglied werden"
-        url: /mitglied-werden/
+      # - title: "Mitglied werden"
+      #   url: /mitglied-werden/
       - title: "Kooperationspartner"
         url: /kooperationspartner/
       - title: "Newsletter"
         url: /newsletter/
-      - title: "Newsletter - Archiv"
-        url: /newsletter-archiv/
+      - title: "Newsletter Archiv"
+        url: /newsletter/archiv/
       - title: "Impressum"
         url: /impressum/
       - title: "Kontakt"
         url: /kontakt/
 
+wir-ueber-uns:
   - title: Wir über uns
     url: /wir-ueber-uns/
     children:
-      - title: "Bubli"
-        url: /bubli/
-      - title: "Burger Treff"
-        url: /burger-treff/
-      - title: "BurgerBürgerPostundMehr"
-        url: /burger-buerger-post-und-mehr/
-      - title: "dreisam-Bühne"
-        url: /dreisam-buehne/
-      - title: "IG offener Burger Platz"
-        url: /ig-offener-burger-platz/
-      - title: "Tarudunum Rundweg"
-        url: "tarodunum-rundweg"
-      - title: "Tischtennis-Freizeitgruppe"
-        url: /tischtennis-freizeitgruppe/
-      - title: "IG Nahwärme Jetzt!"
-        url: /ig-nahwaerme-jetzt/
-        children:
-          - title: "Aktionen"
-            url: /ig-nahwaerme-jetzt/aktionen/
-          - title: "Nächste Schritte"
-            url: /ig-nahwaerme-jetzt/naechste-schritte/
+      - image_path: /assets/img/fotos/bubli-1.jpg
+        title: "Bubli"
+        url: "/bubli/"
+      - image_path: /assets/img/fotos/burgertreff-1.jpg
+        title: "Burger Treff"
+        url: "/burger-treff/"
+      - image_path: /assets/img/fotos/birkenhof-20130605.jpg
+        title: "Burger Bürger Post und Mehr"
+        url: "/burger-buerger-post-und-mehr/"
+      - image_path: /assets/img/fotos/burghoefen24.jpg
+        title: "dreisam-Bühne"
+        url: "/dreisam-buehne/"
+      - image_path: /assets/img/fotos/burger-platz-1.jpg
+        title: "IG offener Burger Platz"
+        url: "/ig-offener-burger-platz/"
+      - image_path: /assets/img/fotos/birkenhof-20121203.jpg
+        title: "Tarodunum Rundweg"
+        url: "/tarodunum-rundweg/"
+      - image_path: /assets/img/fotos/birkenhof-20170514.jpg
+        title: "Tischtennis Freizeitgruppe"
+        url: "/tischtennis-freizeitgruppe/"
+      - image_path: /assets/img/fotos/birkenhof-20170514.jpg
+        title: "IG Nachwärme Jetzt!"
+        url: "/ig-nahwaerme-jetzt/"
 
+aktionen:
   - title: Aktionen
+    url: /aktionen/
     children:
-      - title: "Burger Fest"
-        url: /burger-fest/
-      - title: "Martinimarkt"
-        url: /martinimarkt/
-      - title: "Bachputzte"
-        url: /bachputzte/
-      - title: "St. Martins-Umzug"
-        url: /st-martins-umzug/
-      - title: "Feuerzauber"
-        url: /feuerzauber/
-      - title: "Mitfahr-Bänke"
-        url: /mitfahr-baenke/
-      - title: "Termine"
-        url: /termine/
+      - image_path: /assets/img/fotos/bild-burger-fest.jpg
+        title: "Burger Fest"
+        url: "/burger-fest/"
+      - image_path: /assets/img/fotos/bild-martinimarkt.jpg
+        title: "Martinimarkt"
+        url: "/martinimarkt/"
+      - image_path: /assets/img/fotos/picture_img_149.jpg
+        title: "Bachputzte"
+        url: "/bachputzte/"
+      - image_path: /assets/img/fotos/birkenhof-20130605.jpg
+        title: "St. Martins-Umzug"
+        url: "/st-martins-umzug/"
+      - image_path: /assets/img/fotos/feuerzauber-1.jpg
+        title: "Feuerzauber"
+        url: "/feuerzauber/"
+      - image_path: /assets/img/fotos/picture_img_141.jpg
+        title: "Mitfahr-Bänke"
+        url: "/mitfahrt-baenke/"
+      - image_path: /assets/img/fotos/burghoefen09.jpg
+        title: "Termine"
+        url: "/termine/"

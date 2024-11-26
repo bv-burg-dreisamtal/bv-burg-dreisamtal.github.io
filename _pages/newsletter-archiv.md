@@ -1,5 +1,5 @@
 ---
 layout: posts
-permalink: /newsletter-archiv/
-title: "Newsletter"
+permalink: /newsletter/archiv/
+title: "Newsletter Archiv"
 ---

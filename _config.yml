@@ -223,7 +223,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
@@ -283,16 +283,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -309,11 +309,17 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
+      date_format: "%d.%B %Y"
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav:
+          - willkommen
+          - wir-ueber-uns
+          - aktionen
       classes: wide
+  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -324,5 +330,8 @@ defaults:
         overlay_filter: "0.5"
         overlay_image: /assets/img/header.jpg
       sidebar:
-        nav: "docs"
+        nav:
+          - willkommen
+          - wir-ueber-uns
+          - aktionen
       classes: wide

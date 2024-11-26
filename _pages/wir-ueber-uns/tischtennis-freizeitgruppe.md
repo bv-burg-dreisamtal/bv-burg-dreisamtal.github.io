@@ -5,7 +5,11 @@ header:
   overlay_image: /assets/img/fotos/birkenhof-20170514.jpg
 ---
 
-![Tischtennis-Freizeitgruppe](/assets/img/fotos/picture_img_537.jpeg)
+<figure>
+  <a href="/assets/img/fotos/picture_img_537.jpeg" class="image-popup " title="TarTischtennis-Freizeitgruppeodunumweg">
+    <img src="/assets/img/fotos/picture_img_537.jpeg" alt="Tischtennis-Freizeitgruppe">
+  </a>
+</figure>
 
 Die Tischtennis-Freizeitgruppe im Bürgerverein, deren Gründung in das Jahr 1964 zurückgeht, ist bisher die einzige
 sportliche Abteilung innerhalb des Bürgervereins. Ihr gehören derzeit 12 Frauen und Männer im alter zwischen 40 und 85

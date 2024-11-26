@@ -18,7 +18,6 @@ Mo., Di., Do., Fr.: 16:00 - 18:00 Uhr
     <a href="/assets/img/fotos/bbpost2.jpg" class="image-popup " title="BBPost 2">
     <img src="/assets/img/fotos/bbpost2.jpg" alt="BBPost 2">
   </a>
-  <figcaption>BBPost 2</figcaption>
 </figure>
 
 Zusammen mit dem Hofgut Himmelreich organisiert der Bürgerverein die BurgerBürgerPostundMehr. Die rein ehrenamtlich

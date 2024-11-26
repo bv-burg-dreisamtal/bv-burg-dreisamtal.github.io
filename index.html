@@ -1,14 +1,14 @@
 ---
-layout: single
+layout: home
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/header.jpg
 excerpt: "Hier ist ein starkes Stück Heimat."
 sidebar:
-  nav: "docs"
+  nav:
+    - willkommen
+    - wir-ueber-uns
+    - aktionen
+classes: wide
 ---
-
-{% for post in site.posts %}
-{% include archive-single.html %}
-{% endfor %}

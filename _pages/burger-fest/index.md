@@ -27,7 +27,7 @@ gallery:
 - 19:15 - 19.45 Uhr :: Quizrunde
 - 20:45 - 21:00 Uhr :: Prämierung "Wer präsentiert seinen Burger am besten?
 
-**Zum ausführlichen Programm geht's hier: [Programm](/burger-fest/programm-2021)**
+**Zum ausführlichen Programm geht's hier: [Programm](/burger-fest/2021/programm)**
 
 *Änderungen vorbehalten!*
 
@@ -36,7 +36,7 @@ gallery:
 ### Unsere Burger Rezepte und mehr...
 Holt euch hier Inspirationen für Burger - Rezepte und mehr
 
-[Rezepte und mehr](/burger-fest/rezepte/)
+[Rezepte und mehr](/burger-fest/2021/rezepte/)
 
 ---
 
@@ -45,7 +45,7 @@ Hier findet ihr ein kleine Auswahl vergangener Birkenhoffeste und Burger Fest.
 
 Viel Spaß beim Stöbern.
 
-[Hier geht's zur Bildgalerie](/burger-fest/bildgalerie/)
+[Hier geht's zur Bildgalerie](/burger-fest/2021/bildgalerie/)
 
 ---
 
