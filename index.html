@@ -1,4 +1,14 @@
 ---
-layout: home
-author_profile: true
+layout: single
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/header.jpg
+excerpt: "Hier ist ein starkes Stück Heimat."
+sidebar:
+  nav: "docs"
 ---
+
+{% for post in site.posts %}
+{% include archive-single.html %}
+{% endfor %}

@@ -1,12 +1,64 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Mitglied werden"
+    url: /mitglied-werden//
+
+docs:
+  - title: Willkommen
+    children:
+      - title: "Vorstand"
+        url: /vorstand/
+      - title: "Mitglied werden"
+        url: /mitglied-werden/
+      - title: "Kooperationspartner"
+        url: /kooperationspartner/
+      - title: "Newsletter"
+        url: /newsletter/
+      - title: "Newsletter - Archiv"
+        url: /newsletter-archiv/
+      - title: "Impressum"
+        url: /impressum/
+      - title: "Kontakt"
+        url: /kontakt/
+
+  - title: Wir über uns
+    url: /wir-ueber-uns/
+    children:
+      - title: "Bubli"
+        url: /bubli/
+      - title: "Burger Treff"
+        url: /burger-treff/
+      - title: "BurgerBürgerPostundMehr"
+        url: /burger-buerger-post-und-mehr/
+      - title: "dreisam-Bühne"
+        url: /dreisam-buehne/
+      - title: "IG offener Burger Platz"
+        url: /ig-offener-burger-platz/
+      - title: "Tarudunum Rundweg"
+        url: "tarodunum-rundweg"
+      - title: "Tischtennis-Freizeitgruppe"
+        url: /tischtennis-freizeitgruppe/
+      - title: "IG Nahwärme Jetzt!"
+        url: /ig-nahwaerme-jetzt/
+        children:
+          - title: "Aktionen"
+            url: /ig-nahwaerme-jetzt/aktionen/
+          - title: "Nächste Schritte"
+            url: /ig-nahwaerme-jetzt/naechste-schritte/
+
+  - title: Aktionen
+    children:
+      - title: "Burger Fest"
+        url: /burger-fest/
+      - title: "Martinimarkt"
+        url: /martinimarkt/
+      - title: "Bachputzte"
+        url: /bachputzte/
+      - title: "St. Martins-Umzug"
+        url: /st-martin-umzug/
+      - title: "Feuerzauber"
+        url: /feuerzauber/
+      - title: "Mitfahr-Bänke"
+        url: /mitfahr-baenke/
+      - title: "Termine"
+        url: /termine/
