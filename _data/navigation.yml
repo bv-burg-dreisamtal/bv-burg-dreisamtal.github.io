@@ -76,3 +76,11 @@ aktionen:
       - image_path: /assets/img/fotos/burghoefen09.jpg
         title: "Termine"
         url: "/termine/"
+
+post_groups:
+  - title: "Chronik"
+    url: /newsletter/archiv/
+  - title: "Kategorien"
+    url: /newsletter/archiv/kategorien
+  - title: "Schlagwörter"
+    url: /newsletter/archiv/schlagwoerter

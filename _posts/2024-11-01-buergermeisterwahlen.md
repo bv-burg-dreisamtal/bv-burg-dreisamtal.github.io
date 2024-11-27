@@ -1,6 +1,8 @@
 ---
 title: "Bürgermeisterwahlen in Kirchzarten"
 categories:
+  - Politik
+tags:
   - Wahlen
 ---
 

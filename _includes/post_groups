@@ -1,0 +1,7 @@
+
+<div style="display: flex">
+<div class="btn">Newsletter, gruppiert nach</div>
+{% for group in site.data.navigation.post_groups %}
+  <a href="{{ group.url }}" class="btn">{{ group.title }}</a>
+{% endfor %}
+</div>

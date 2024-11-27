@@ -1,5 +1,7 @@
 ---
 title: "Mitgliederversammlung und Vorstandswahlen 2024"
+categories:
+  - "Interne Sache"
 ---
 
 Im Rahmen der Mitgliederversammlung am 23.10.2024 in der Tarodunumschule Burg zog der Vorstand des Bürgervereins eine
