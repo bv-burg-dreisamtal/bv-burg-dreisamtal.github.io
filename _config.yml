@@ -301,6 +301,8 @@ compress_html:
   ignore:
     envs: development
 
+date_format: "%d. %B %Y"
+
 # Defaults
 defaults:
   # _posts
@@ -310,7 +312,6 @@ defaults:
     values:
       layout: single
       show_date: true
-      date_format: "%d.%B %Y"
       share: true
       related: true
       sidebar:
