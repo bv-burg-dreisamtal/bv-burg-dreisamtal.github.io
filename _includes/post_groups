@@ -1,7 +1,12 @@
-
-<div style="display: flex">
-<div class="btn">Newsletter, gruppiert nach</div>
-{% for group in site.data.navigation.post_groups %}
-  <a href="{{ group.url }}" class="btn">{{ group.title }}</a>
-{% endfor %}
-</div>
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    {% for group in site.data.navigation.post_groups %}
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="margin: 0 8px">
+          <a href="{{ group.url }}" itemprop="item">{{ group.title }}</a>
+      </li>
+      {% if forloop.last == false %}
+        <span class="sep">|</span>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
