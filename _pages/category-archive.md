@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /newsletter/archiv/kategorien
+permalink: /newsletter/kategorien
 title: "Newsletter nach Kategorien"
 ---
 

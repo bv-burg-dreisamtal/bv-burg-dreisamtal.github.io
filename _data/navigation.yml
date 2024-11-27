@@ -13,14 +13,14 @@ willkommen:
       #   url: /mitglied-werden/
       - title: "Kooperationspartner"
         url: /kooperationspartner/
+      # - title: "Newsletter"
+      #   url: /newsletter/
       - title: "Newsletter"
         url: /newsletter/
-      - title: "Newsletter Archiv"
-        url: /newsletter/archiv/
-      - title: "Impressum"
-        url: /impressum/
-      - title: "Kontakt"
-        url: /kontakt/
+      # - title: "Impressum"
+      #   url: /impressum/
+      # - title: "Kontakt"
+      #   url: /kontakt/
 
 wir-ueber-uns:
   - title: Wir über uns
@@ -79,8 +79,8 @@ aktionen:
 
 post_groups:
   - title: "Chronik"
-    url: /newsletter/archiv/
+    url: /newsletter/
   - title: "Kategorien"
-    url: /newsletter/archiv/kategorien
+    url: /newsletter/kategorien
   - title: "Schlagwörter"
-    url: /newsletter/archiv/schlagwoerter
+    url: /newsletter/schlagwoerter

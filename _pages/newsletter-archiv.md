@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /newsletter/archiv/
-title: "Newsletter Archiv"
+permalink: /newsletter/
+title: "Newsletter"
 breadcrumbs: true
 ---
 

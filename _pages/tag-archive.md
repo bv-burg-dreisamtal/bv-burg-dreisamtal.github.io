@@ -1,6 +1,6 @@
 ---
 layout: tags
-permalink: /newsletter/archiv/schlagwoerter
+permalink: /newsletter/schlagwoerter
 title: "Newsletter nach Schlagwörter"
 ---
 
